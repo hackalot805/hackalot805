@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Shaun Harrington and I develop software. I'm currently working at @Dozuki, an iFixit spin-off located in beautiful San Luis Obispo. At Dozuki we build software that helps companies implement a continuous improvement culture to improve their people, their processes, and their communication.
+My name is Shaun Harrington and I develop software. I'm currently working at [@Dozuki](https://github.com/Dozuki), an [@iFixit](https://github.com/iFixit) spin-off located in beautiful San Luis Obispo. At Dozuki we build software that helps companies implement a continuous improvement culture to improve their people, their processes, and their communication.
 
 <!--
 **hackalot805/hackalot805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
