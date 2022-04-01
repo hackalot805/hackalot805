@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Shaun Harrington and I develop software. I'm currently working at [@Dozuki](https://github.com/Dozuki), an [@iFixit](https://github.com/iFixit) spin-off located in beautiful San Luis Obispo. At Dozuki we build software that helps companies implement a continuous improvement culture to improve their people, their processes, and their communication.
+My name is Shaun Harrington and I develop software. I'm currently working at [@Dozuki](https://github.com/Dozuki), an [@iFixit](https://github.com/iFixit) spin-off located in beautiful [San Luis Obispo](https://en.wikipedia.org/wiki/San_Luis_Obispo,_California). At Dozuki we build software that helps companies implement a continuous improvement culture to improve their people, their processes, and their communication.
+
+⚡ Fun fact: I have webbed toes on one foot.  My Dad, who possessed a wonderful sense of humor, would tease me by telling people that I swam in circles until I learned to compensate.
 
 <!--
 **hackalot805/hackalot805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
