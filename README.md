@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Shaun Harrington and I develop software. I'm currently working at [@Dozuki](https://github.com/Dozuki), an [@iFixit](https://github.com/iFixit) spin-off located in beautiful [San Luis Obispo](https://en.wikipedia.org/wiki/San_Luis_Obispo,_California). At Dozuki we build software that helps companies implement a continuous improvement culture to improve their people, their processes, and their communication.
+My name is [Shaun Harrington](https://www.shaunharrington.com) and I develop software. I'm currently working at [@Dozuki](https://github.com/Dozuki), an [@iFixit](https://github.com/iFixit) spin-off located in beautiful [San Luis Obispo](https://en.wikipedia.org/wiki/San_Luis_Obispo,_California). At Dozuki we build software that helps companies implement a continuous improvement culture to improve their people, their processes, and their communication.
 
 ⚡ Fun fact: I have webbed toes on one foot.  My Dad, who possessed a wonderful sense of humor, would tease me by telling people that I swam in circles until I learned to compensate.
 
