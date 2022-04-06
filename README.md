@@ -1,14 +1,15 @@
 ![Shaun Harrington](https://github.com/hackalot805/shaunharrington.com/blob/master/public/images/eyes.jpg?raw=true)
 
-### Hi there 👋
+## 👋 I Say Hello
 
 My name is [Shaun Harrington](https://www.shaunharrington.com) and I develop software. I'm currently working at [@Dozuki](https://github.com/Dozuki), an [@iFixit](https://github.com/iFixit) spin-off located in beautiful [San Luis Obispo](https://en.wikipedia.org/wiki/San_Luis_Obispo,_California). At Dozuki we build software that helps companies implement a continuous improvement culture to improve their people, their processes, and their communication.
 
 ⚡ Fun fact: I have webbed toes on one foot.  My Dad, who possessed a wonderful sense of humor, would tease me by telling people that I swam in circles until I learned to compensate.
 
-🍕 Favorite Pizza: [Palo Mesa Pizza Makes You Happy!](https://www.palomesapizza.com)
+[<img alt='' src=https://www.linkedin.com/favicon.ico />](https://www.linkedin.com/in/shaunharrington/) [<img style='width:16px;' alt='' src='https://www.shaunharrington.com/favicon.ico' />](https://www.shaunharrington.com) [<img style='width:16px;' alt='' src='https://avatars.githubusercontent.com/u/6609768?s=64&v=4' />](https://www.dozuki.com)
 
-[<img alt='' src=https://www.linkedin.com/favicon.ico />](https://www.linkedin.com/in/shaunharrington/) [<img style='width:16px;' alt='' src='https://www.shaunharrington.com/favicon.ico' />](https://www.shaunharrington.com) [<img style='width:16px;' alt='' src='https://avatars.githubusercontent.com/u/6609768?s=64&v=4' />](https://www.dozuki.com) [<img style='width:16px;' alt='' src='https://iconarchive.com/download/i76047/martz90/circle-addon2/pizza.ico' />](https://www.palomesapizza.com)
+## 🍕 Favorite Pizza
+[Palo Mesa Pizza Makes You Happy!](https://www.palomesapizza.com)
 
 <!--
 **hackalot805/hackalot805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
