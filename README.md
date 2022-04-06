@@ -11,6 +11,8 @@ My name is [Shaun Harrington](https://www.shaunharrington.com) and I develop sof
 ## 🍕 Favorite Pizza
 [Palo Mesa Pizza Makes You Happy!](https://www.palomesapizza.com)
 
+[![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackalot805&count_private=true&show_icons=true&theme=radical)](https://github.com/hackalot805/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackalot805&count_private=true&show_icons=true&theme=radical&&layout=compact)](https://github.com/hackalot805/github-readme-stats)
+
 <!--
 **hackalot805/hackalot805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
