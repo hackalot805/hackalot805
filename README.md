@@ -1,6 +1,6 @@
 ![Shaun Harrington](https://github.com/hackalot805/shaunharrington.com/blob/master/public/images/eyes.jpg?raw=true)
 
-## 👋 I Say Hello
+## 👋  Eschew Obfuscation
 
 My name is [Shaun Harrington](https://www.shaunharrington.com) and I develop software. I'm currently working at [@Dozuki](https://github.com/Dozuki), an [@iFixit](https://github.com/iFixit) spin-off located in beautiful [San Luis Obispo](https://en.wikipedia.org/wiki/San_Luis_Obispo,_California). At Dozuki we build software that helps companies implement a continuous improvement culture to improve their people, their processes, and their communication.
 
